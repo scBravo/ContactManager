@@ -1,0 +1,5 @@
+﻿1. Implement container which contains summary person list info.
+2. Implement UI additional new person list with chain constructor.
+3. Implement search engine to be find search item.
+4. Content class must create when application is run and save to xml when app is closing
+5. 
